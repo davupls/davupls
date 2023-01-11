@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @davupls
+- 👋 Hi, I’m @dave
 - 👀 I’m interested in tech, graphics rendering, c++ programming and design theory.
 - 🌱 I’m currently learning what it means to be a Software Engineer.
-- 💞️ I’m looking to collaborate on nothing at the moment.
+- 💞️ I’m not looking to collaborate on anything at the moment.
 - 📫 How to reach me (davudev.web@gmail.com)
 
 <!---
