@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dave
-- 👀 I’m interested in tech, , graphics rendering, c++ programming and design theory.
-- 👨🏾‍💻 iOS Developer (learning) 🌱
+- 👀 I’m interested in tech, mobile programming, graphics rendering, c++ programming and design theory.
+- 👨🏾‍💻 iOS Developer 🌱
 - 💞️ I’m not looking to collaborate on anything at the moment.
 - 📫 How to reach me (davudev.web@gmail.com)
 
